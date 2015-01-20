@@ -1,0 +1,6 @@
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\bin\Debug\CompromisoMSF.exe.config
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\bin\Debug\CompromisoMSF.exe
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\bin\Debug\CompromisoMSF.pdb
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\obj\Debug\CompromisoMSF.csprojResolveAssemblyReference.cache
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\obj\Debug\CompromisoMSF.exe
+D:\Desarrollo\ProyectosMSF\CompromisoMSF\CompromisoMSF\obj\Debug\CompromisoMSF.pdb
